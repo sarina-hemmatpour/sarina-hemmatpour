@@ -1,5 +1,5 @@
 
-My name is Sarina Hemmat pour
+Sarina Hemmat pour
 ===============================
 
 Computer Engineer (Student :D)
