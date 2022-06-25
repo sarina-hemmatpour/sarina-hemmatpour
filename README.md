@@ -10,6 +10,8 @@ Student (:D)
 <p align="left">
     <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" width="36" height="36" alt="Java" /></a>
+  <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="36" height="36" alt="Java" /></a>
+  <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="36" height="36" alt="Java" /></a>
 </p>
                     
 ### Socials
