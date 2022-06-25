@@ -2,7 +2,7 @@
 My name is Sarina Hemmat pour
 ===============================
 
-Student (:D)
+Computer Engineer (Student :D)
 -----------------------------
 
                   
