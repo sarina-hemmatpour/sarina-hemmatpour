@@ -12,6 +12,7 @@ Computer Engineer (Student :D)
   <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="36" height="36" alt="Java" /></a>
+  <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="36" height="36" alt="Java" /></a>
 </p>
                     
 ### Socials
@@ -20,6 +21,7 @@ Computer Engineer (Student :D)
     <a href="https://www.instagram.com/sarinahmtpr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/sarina-hemmatpour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/sarina-hemmatpour-842119235" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="discordapp.com/users/Cloudie#2277" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="32" height="32" /></a>
 
 ### Badges
 
