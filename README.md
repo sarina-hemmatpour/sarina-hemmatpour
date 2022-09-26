@@ -5,6 +5,8 @@ Sarina Hemmat pour
 Computer Engineer (Student :D)
 -----------------------------
 
+* 🤡 Learning android application development ...
+
                   
 ### Skills
 <p align="left">
