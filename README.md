@@ -2,7 +2,7 @@
 Sarina Hemmat pour
 ===============================
 
-Computer Engineer (Student :D)
+Computer Engineer
 -----------------------------
 
 * 🤡 Learning android application development ...
