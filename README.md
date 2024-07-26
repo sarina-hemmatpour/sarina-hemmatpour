@@ -16,7 +16,7 @@ Computer Engineer
   <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,kotlin,js,c,cpp,python,linux,android" />
+    <img src="https://skillicons.dev/icons?i=git,java,kotlin,js,c,cpp,python,linux,androidstudio&perline=3" />
   </a>
 </p>
                     
