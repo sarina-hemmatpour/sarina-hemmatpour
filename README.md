@@ -7,7 +7,7 @@ Computer Engineer
 
 *  Android Developer
 *  Backend Developer
-
+*  Frontend Developer
                   
 ### Skills
 <p align="left">
